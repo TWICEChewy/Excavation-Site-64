@@ -1,0 +1,12 @@
+body {
+ background-image: url("https://i.ytimg.com/vi/p0eqpnQ5gEU/maxresdefault.jpg");
+ background-color: #cccccc;
+}
+p {
+    font-family: 'Abril Fatface', cursive;
+    font-size: 20px;
+    text-align: center;
+}
+#staff img {
+    width: 400px;
+}
